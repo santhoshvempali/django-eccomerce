@@ -1,0 +1,7 @@
+models
+circualr dependancy
+reverse relationship
+---
+content types=In this series, we will understand Django's ContentType and what is GenericForeignKey with examples. contenttypes is a Django app that can track all of the models installed in our Django-powered project, providing a high-level, generic interface for working with our models.
+https://buildatscale.tech/what-is-django-contenttype/
+https://buildatscale.tech/how-to-use-genericforeignkeys-in-django/
